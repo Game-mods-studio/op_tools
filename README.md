@@ -1,2 +1,2 @@
 # op tools
-minecraft download https://modrinth.com/mod/op_tools
+minecraft mod download https://modrinth.com/mod/op_tools
