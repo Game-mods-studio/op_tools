@@ -7,19 +7,7 @@ version: ''
 mod loader: ''
 
 ---
-body:
-- type: dropdown
-  id: download
-  attributes:
-    label: How did you download the software?
-    options:
-      - Homebrew
-      - MacPorts
-      - apt-get
-      - Built from source
-  validations:
-    required: true
-  
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -35,9 +23,9 @@ Steps to reproduce the behavior:
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Version [e.g. 22]
+
+mod loader+version
+-fabric
 
 
 **Additional context**
