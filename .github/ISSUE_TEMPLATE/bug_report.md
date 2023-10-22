@@ -7,7 +7,19 @@ version: ''
 mod loader: ''
 
 ---
-
+body:
+- type: dropdown
+  id: download
+  attributes:
+    label: How did you download the software?
+    options:
+      - Homebrew
+      - MacPorts
+      - apt-get
+      - Built from source
+  validations:
+    required: true
+  
 **Describe the bug**
 A clear and concise description of what the bug is.
 
