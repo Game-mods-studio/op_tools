@@ -4,8 +4,8 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-version''
-mod loader''
+version: ''
+mod loader: ''
 
 ---
 
